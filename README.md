@@ -13,12 +13,12 @@ Users have a choice of 12 Looney Tunes characters to click.  They can click an i
   
 
 ### Link to App
-* <strong>[Memory Game](https://mjohnwright.github.io/memory/)</strong>
+* <strong>[Looney Tunes Memory Game](https://looneytunes-react-memorygame.herokuapp.com/)</strong>
 
 ### Technology
 * ReactJS
 * ReactDOM
-* HerokuL
+* Heroku
 
 ### Screenshot
 ![Full Size](public/images/react-app.png)
