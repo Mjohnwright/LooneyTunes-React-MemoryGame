@@ -1,5 +1,3 @@
-# React-Memory-Game!!!!!!!!!!!!!!!!!!!!!
-
 # :rabbit: Looney Tunes React-Memory-Game
 
 ### Overview
