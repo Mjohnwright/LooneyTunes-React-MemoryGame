@@ -1,0 +1,17 @@
+
+.wrapper {
+	margin-left: 120px;
+}
+
+.card {
+	height: 25%;
+	width: 25%;
+	padding: 20px;
+
+}
+
+img {
+	height: 200px;
+	width: 200px;
+	border:5px solid #021a40;
+}

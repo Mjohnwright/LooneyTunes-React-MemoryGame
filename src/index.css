@@ -1,0 +1,11 @@
+body {
+  /* padding: 0;
+  margin: 0 0;
+  font-family: sans-serif;
+  background-color: rgb(245, 238, 238) */
+
+  display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+    position: relative;
+}

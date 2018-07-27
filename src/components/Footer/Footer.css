@@ -1,0 +1,10 @@
+.card-footer {
+    background-color: rgb(97, 117, 231);
+    text-align: center;
+}
+
+.text-muted {
+    color: rgba(144, 224, 52, 0.89);
+    font-size: 16px;
+    
+}
